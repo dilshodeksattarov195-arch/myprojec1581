@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productutringify",
+        "uuid": 768366,
+        "checksum": "jidtlf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
